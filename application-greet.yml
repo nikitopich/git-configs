@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: greet-service
+
+#server:
+#  port: 9090
