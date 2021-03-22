@@ -1,6 +1,3 @@
 autorize:
   login: prop_login
   password: prop_pass
-
-#server:
-#  port: 9091
